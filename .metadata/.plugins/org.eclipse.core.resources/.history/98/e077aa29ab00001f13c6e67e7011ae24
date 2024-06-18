@@ -1,0 +1,10 @@
+package curso_algoritmos;
+
+public class SomaVetor {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
